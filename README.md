@@ -6,6 +6,8 @@ This repository will eventually contain all documentation for the compact versio
 
 Here is a [YouTube](https://youtu.be/cYrtfU3-9h0) video that shows the project being built.
 
+The work here is based on [PLA20V8](https://www.freepascal.org/~daniel/c64pla/) project, all credits go to the original author, my contribution is this compact version of the PCB.
+
 
 
 I get my PCBs from:
